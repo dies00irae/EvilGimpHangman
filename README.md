@@ -1,2 +1,2 @@
 # EvilGimpHangman
-My first game
+My first real program created by myself
