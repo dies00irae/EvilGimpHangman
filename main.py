@@ -1,7 +1,7 @@
 # Author: Jake Smith
 # Project:  Hangman Game
 # Date Created: 4/24/2020
-# Domain: evilgimpdesigns.com
+# Domain: evilgimpdesigns (ficticious name)
 import sys
 import random
 import turtle
